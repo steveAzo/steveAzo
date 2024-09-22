@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Azongo</h1>
-<h3 align="center">A passionate Backend developer from Ghana</h3>
+<h3 align="center">A passionate Software developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveazo&label=Profile%20views&color=0e75b6&style=flat" alt="steveazo" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **backend, nodejs**
+- 💬 Ask me about **backend, nodejs, mobile app developement**
 
 - 📫 How to reach me **stephenazongo77@gmail.com**
 
