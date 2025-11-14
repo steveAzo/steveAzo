@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Stephen Azongo</h1>
-<h3 align="left">A passionate Software developer from Ghana</h3>
+<h3 align="left">A passionate Software Engineer from Ghana</h3>
 
 
 - 🌱 I’m currently working on **Nest js, Graphql and Fast API** projects
